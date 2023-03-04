@@ -1,4 +1,4 @@
-# FSA for recognizing simple Noun-Phrases in French using Prolog
+# FSA for recognizing simple Noun Phrases in French using Prolog
 The FSA is non-deterministic. The start state is 1 and the final (accept) state is 3. The supported word categories are determiners, wh-determiners, quantifiers, common nouns, proper nouns, adjectives (occuring before and after the noun), prepositions and conjunctions.
 
 A sample lexicon has been included. 
