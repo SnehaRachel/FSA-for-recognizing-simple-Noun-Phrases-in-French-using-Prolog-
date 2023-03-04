@@ -1,0 +1,1 @@
+# FSA-for-recognizing-simple-Noun-Phrases-in-French-using-Prolog-
