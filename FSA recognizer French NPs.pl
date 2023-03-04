@@ -1,5 +1,6 @@
 % FSA for Extracting French Noun Phrases
 
+% arc(from_state, to_state, Word_Category)
 initial(1).
 final(3).             
 arc(1,2,det).
@@ -17,7 +18,8 @@ arc(3,1, conj).
 arc(3,2, conj).
 
 % Sample lexicon
-                                                   
+
+% lex(Word_name, Word_Category)
 % Determiners
 lex(un,det).
 lex(une,det).
