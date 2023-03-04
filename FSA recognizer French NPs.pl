@@ -46,7 +46,7 @@ lex(cinq,card).
 lex(cent,card).
 lex(deux,card).
 
-% Exceptional Adjectives (Adjectives that follow Nouns)
+% Exceptional Adjectives (Adjectives that precede Nouns)
 lex(petit,excadj).
 lex(pauvre,excadj).
 lex(grand,excadj).
